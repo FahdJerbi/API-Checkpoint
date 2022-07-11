@@ -1,0 +1,16 @@
+/* .users {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+} */
+
+.users {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.user-list {
+  text-align: center;
+}
